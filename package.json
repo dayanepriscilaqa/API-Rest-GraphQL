@@ -37,6 +37,7 @@
     "nock": "^14.0.10",
     "sinon": "^21.0.0",
     "start-server-and-test": "^2.1.2",
-    "supertest": "^7.1.4"
+    "supertest": "^7.1.4",
+    "wait-on": "^9.0.1"
   }
 }
