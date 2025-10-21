@@ -9,7 +9,7 @@ Esta API foi desenvolvida como base para estudos de testes e automação de APIs
 * **Documentação:** Swagger e GraphQL Playground.
 * **Armazenamento:** Banco de dados em memória (objetos e arrays) para garantir que a execução e os testes ocorram imediatamente, sem dependências externas.
 
----
+----
 
 ## Guia de Configuração e Validação (Execução dos Testes)
 
